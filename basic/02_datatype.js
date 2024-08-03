@@ -8,4 +8,5 @@
 // null
 // undefined
 
-
+// console.table('helo');
+console.log(typeof(null));
